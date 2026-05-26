@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poslasticarnica-atina.rs/sitemap.xml
